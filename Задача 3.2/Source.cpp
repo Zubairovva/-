@@ -22,5 +22,4 @@ int main() {
 		}
 	}
 	cout << "Index of this entry: " << position << "\n";  
-    system("pause");
-}
+   }
